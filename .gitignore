@@ -1,0 +1,6 @@
+# vendor packages
+node_modules
+
+.DS_Store
+google-secret.json
+weather-secret.json
